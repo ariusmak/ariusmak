@@ -1,16 +1,20 @@
-## Hi there 👋
+# Arius Mak
 
-<!--
-**ariusmak/ariusmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative methods graduate student focused on machine learning, predictive modeling, and data-driven decision systems.
 
-Here are some ideas to get you started:
+## Interests
+- Applied machine learning
+- Recommender systems
+- Sports and financial prediction modeling
+- Statistical learning and backtesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **ETF Allocation Project** — Bayesian / contextual portfolio allocation with walk-forward backtesting
+- **WNBA Market Model** — predictive modeling for sports markets using structured features and probabilistic evaluation
+- **Krauss Stat Arb Project** — reproduction and extension of a statistical arbitrage pipeline
+
+## Tools
+Python, pandas, NumPy, PyTorch, scikit-learn, statsmodels, Jupyter, Git/GitHub
+
+## Looking for
+ML / modeling / quantitative research opportunities
